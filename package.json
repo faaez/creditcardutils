@@ -1,0 +1,37 @@
+{
+  "name": "creditcardutils",
+  "version": "1.0.0",
+  "description": "A general purpose javascript library for credit card number validation and formatting. Based on https://github.com/jondavidjohn/payform and https://github.com/stripe/jquery.payment. Usable in React Native and Node.",
+  "keywords": [
+    "payment",
+    "form",
+    "cc",
+    "card",
+    "credit card",
+    "formatting",
+    "validation",
+    "jquery-plugin",
+    "ecosystem:react",
+    "ecosystem:react-native"
+  ],
+  "author": "Faaez Ul Haq <faaez.ulhaq@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faaez/creditcardutils.git"
+  },
+  "main": "dist/creditcardutils.js",
+  "scripts": {
+    "test": "make test",
+    "build": "make build",
+    "watch": "make watch"
+  },
+  "devDependencies": {
+    "watch": "~0.13.0",
+    "uglify": "~0.1.1",
+    "mocha": "~2.1.0",
+    "browserify": "~8.1.3",
+    "coffeeify": "~1.0.0",
+    "bundle-collapser": "~1.1.1"
+  }
+}
