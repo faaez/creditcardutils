@@ -60,7 +60,18 @@ Formats card numbers:
 Example:
 
 ``` javascript
-creditcardutils.formatCardNumber(input); //=>returns formatted card number
+creditcardutils.formatCardExpiry(input); //=>returns formatted card expiry date
+```
+#### creditcardutils.formatCardExpiry(input)
+
+Formats expiry date:
+
+* Includes a forward slash between month and year
+
+Example:
+
+``` javascript
+creditcardutils.formatCardExpiry(input); //=>returns formatted card expiry date
 ```
 
 #### creditcardutils.validateCardNumber(number)
