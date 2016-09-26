@@ -182,6 +182,16 @@ Array of objects that describe valid card types. Each object should contain the 
 
 When identifying a card type, the array is traversed in order until the card number matches a `pattern`. For this reason, patterns with higher specificity should appear towards the beginning of the array.
 
+## Built with creditcardutils
+<table>
+<tr>
+<td align="center"><a href="https://crisp.im/"><img src="https://avatars0.githubusercontent.com/u/16270189?v=3&s=200" height="64" /></a></td>
+</tr>
+<tr>
+<td align="center">Crisp.im</td>
+</tr>
+</table>
+
 ## Development
 
 Please see [CONTRIBUTING.md](https://github.com/faaez/creditcardutils/blob/develop/CONTRIBUTING.md).
