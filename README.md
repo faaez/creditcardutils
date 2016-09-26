@@ -188,7 +188,7 @@ When identifying a card type, the array is traversed in order until the card num
 <td align="center"><a href="https://crisp.im/"><img src="https://avatars0.githubusercontent.com/u/16270189?v=3&s=200" height="64" /></a></td>
 </tr>
 <tr>
-<td align="center">Crisp.im</td>
+<td align="center">Crisp</td>
 </tr>
 </table>
 
