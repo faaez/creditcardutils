@@ -186,7 +186,7 @@ When identifying a card type, the array is traversed in order until the card num
 <table>
 <tr>
 <td align="center"><a href="https://crisp.im/"><img src="https://avatars0.githubusercontent.com/u/16270189?v=3&s=200" height="64" /></a></td>
-<td align="center"><a href="http://gopheo.com"><img src="https://s3.amazonaws.com/pheo-assets/web-app/desktop_footer.png" height="64" /></a></td>
+<td align="center"><a href="http://pheo.co"><img src="https://s3.amazonaws.com/pheo-assets/web-app/desktop_footer.png" height="64" /></a></td>
 </tr>
 <tr>
 <td align="center">Crisp</td>
